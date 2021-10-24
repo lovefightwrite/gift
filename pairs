@@ -1,4 +1,4 @@
 if (a == "LoveFightWrite" && b == "nyle_in_the_afternoon"){"Super. Mods."}
-if (a == "LoveFightWrite" && b == "Nightbot"){"Robot buddies."}
-if (a == "LoveFightWrite" && b == "SonglistBot"){"Smooth tunes for days."}
-if (a == "LoveFightWrite" && b == "daniel_wayne"){"Limitless doins.";}
+else if (a == "LoveFightWrite" && b == "Nightbot"){"Robot buddies."}
+else if (a == "LoveFightWrite" && b == "SonglistBot"){"Smooth tunes for days."}
+else if (a == "LoveFightWrite" && b == "daniel_wayne"){"Limitless doins.";}
