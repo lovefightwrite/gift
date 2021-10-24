@@ -1,5 +1,5 @@
 if (a == "LoveFightWrite" && b == "nyle_in_the_afternoon"){"Super. Mods."}
 else if (a == "LoveFightWrite" && b == "Nightbot"){"Robot buddies."}
 else if (a == "LoveFightWrite" && b == "SonglistBot"){"Smooth tunes for days."}
-else if (a == "LoveFightWrite" && b == "daniel_wayne"){"Limitless doins."}
+else if (a == "LoveFightWrite" && b == "daniel_wayne"){"Limitless doints."}
 else {"We're all pals here!";}
