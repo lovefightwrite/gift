@@ -3,4 +3,4 @@
 if (a.length > 1) {c = ["sneaks up like a wolf while they're walking in the woods", "hides under their bed"]}
 
 
-(b[Math.floor(Math.random()*b.length)]+" "+c[[Math.floor(Math.random()*c.length)]]);
+(c[[Math.floor(Math.random()*c.length)]]+" and jumps out dressed as a "b[Math.floor(Math.random()*b.length)]+"!!! ");
