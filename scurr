@@ -9,6 +9,8 @@ var c =
     attire: costumes[[Math.floor(Math.random()*costumes.length)]]
 }
 
-if (a.length > 1){
-return
+if (a.length > 1){c.method} 
+
+/*
 (" "+c.method+" and jumps out dressed like "+c.attire+"!!!")}
+*/
