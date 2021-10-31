@@ -13,8 +13,8 @@ if (a.length > 1){
 }
 
 if (a.length > 2){
-    player2 = nightbot;
+    player2 = nightbot
 }
 
-(player1+c[1]+b[0]);
+(player1+player2+c[1]+b[0]);
 
