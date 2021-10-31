@@ -1,4 +1,4 @@
-c;
+[c;
 
 scares = [`sneaks up like a wolf while they're walking in the woods`, `hides under their bed`]
 costumes = [`a vampire`, `a ghost`, `the big bad wolf`]
@@ -9,7 +9,7 @@ var c =
     attire: costumes[[Math.floor(Math.random()*costumes.length)]]
 }
 
-if (a.length > 1){c.method} 
+if (a.length > 1){c.method}]
 
 /*
 (` `+c.method+` and jumps out dressed like `+c.attire+`!!!`)}
