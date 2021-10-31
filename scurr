@@ -1,8 +1,2 @@
-
-
-if (a.length > 1){var c ={
-        power: [Math.floor(Math.random()*100)],
-        scares: [`sneaks up like a wolf while they're walking in the woods` | `hides under their bed`],
-        costumes: [`a vampire` | `a ghost`]
-    }}
-    (c.method[0])
+["a vampire", "a ghost", "the big bad wolf", "a lumberjack with a chainsaw", "a giant mosquito"]
+if (a.length > 1){b[Math.floor(Math.random()*b.length)]}
