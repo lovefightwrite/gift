@@ -1,38 +1,35 @@
-loveFightWrite = [
+loveFightWrite = 
     name: "LoveFateHate",
     class: "warrior",
     weapon: "fists",
     armor: "leather",
     attacks: ["the twist of fate", "a flying armbar", "a superman punch", "baffling literary devices"],
-    power: [Math.floor(Math.random()*100)]
-]
+    power: [Math.floor(Math.random()*100)];
 
-lanunjawa = [
+
+lanunjawa = 
     name: "Lanunjawa",
     class: "rogue",
     weapon: "dagger",
     armor: "steel-lined robe",
     attacks: ["an arrow", "a magic missile", "some spice", "extreme language skills"],
-    power: [Math.floor(Math.random()*100)]
-]
+    power: [Math.floor(Math.random()*100)];
 
-maricoPolyana = [
+maricoPolyana = 
     name: "MaricoPolyana",
     class: "hunter",
     weapon: "longbow",
     armor: "rawhide",
     attacks: ["an arrow", "many arrows", "hot cocoa", "overwhelming friendliness"],
-    power: [Math.floor(Math.random()*100)]
-]
+    power: [Math.floor(Math.random()*100)];
 
-nightbot = [
+nightbot = 
     name: "KnightBot",
     class: "enforcer",
     weapon: "blackjack",
     armor: "chain mail",
     attacks: ["a swift kick", "a rising elbow", "a blackjack to the dom", "the Stone-Cold stunner"],
-    power: [Math.floor(Math.random()*100)]
-]
+    power: [Math.floor(Math.random()*100)];
 
 
 if (a == "LoveFightWrite"){player1 = loveFightWrite}
