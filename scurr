@@ -1,3 +1,5 @@
+if (a.length > 1){var b = c}
+
 const scares = ["sneaks up like a wolf while they're walking in the woods", "hides under their bed"]
 const costumes = ["a vampire", "a ghost", "the big bad wolf", "a lumberjack with a chainsaw", "a giant mosquito"]
 
@@ -6,6 +8,5 @@ var c = {
     method: scares[[Math.floor(Math.random()*scares.length)]],
     attire: costumes[[Math.floor(Math.random()*costumes.length)]]
 }
-if (a.length > 1){var b = c}
 
 (" "+c.method+" and jumps out dressed like "+c.attire+"!!!")
