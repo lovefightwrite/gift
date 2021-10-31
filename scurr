@@ -1,2 +1,2 @@
-["a vampire", "a ghost", "the big bad wolf", "a lumberjack with a chainsaw", "a giant mosquito"]
-if (a.length > 1){b[Math.floor(Math.random()*b.length)]}
+["a vampire", "a ghost", "the big bad wolf", "a lumberjack with a chainsaw", "a giant mosquito"];
+ if (a.length > 1){b[Math.floor(Math.random()*b.length)]}
