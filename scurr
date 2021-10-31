@@ -1,5 +1,3 @@
-c;
-
 scares = ["sneaks up like a wolf while they're walking in the woods", "hides under their bed"]
 costumes = ["a vampire", "a ghost", "the big bad wolf", "a lumberjack with a chainsaw", "a giant mosquito"]
 var c =
