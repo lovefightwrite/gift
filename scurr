@@ -1,10 +1,10 @@
-var a = `LoveFightWrite`;
-var b = c;
+a = `LoveFightWrite`;
+b = c;
 
 scares = [`sneaks up like a wolf while they're walking in the woods`, `hides under their bed`];
 costumes = [`a vampire`, `a ghost`];
 
-var c =
+c =
 {
     power: [Math.floor(Math.random()*100)],
     method: scares[[Math.floor(Math.random()*scares.length)]],
