@@ -1,13 +1,4 @@
-a = `LoveFightWrite`;
-b = c;
+["sneaks up like a wolf while they're walking in the woods", "hides under their bed"];
 
-scares = [`sneaks up like a wolf while they're walking in the woods`, `hides under their bed`];
-costumes = [`a vampire`, `a ghost`];
 
-c =
-{
-    power: [Math.floor(Math.random()*100)],
-    method: scares[[Math.floor(Math.random()*scares.length)]],
-    attire: costumes[[Math.floor(Math.random()*costumes.length)]]
-}
-(c.method);
+(b[Math.floor(Math.random()*b.length)]);
