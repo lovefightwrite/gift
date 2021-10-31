@@ -1,9 +1,8 @@
-scares = [`sneaks up like a wolf while they're walking in the woods` | `hides under their bed`]
-costumes = [`a vampire` | `a ghost`]
+
 
 if (a.length > 1){var c ={
         power: [Math.floor(Math.random()*100)],
-        method: scares[[Math.floor(Math.random()*scares.length)]],
-        attire: costumes[[Math.floor(Math.random()*costumes.length)]]
+        scares: [`sneaks up like a wolf while they're walking in the woods` | `hides under their bed`],
+        costumes: [`a vampire` | `a ghost`]
     }}
-    (c.method)
+    (c.method[0])
