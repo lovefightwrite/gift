@@ -10,7 +10,3 @@ var c =
 }
 
 if (a.length > 1){c.method}]
-
-/*
-(` `+c.method+` and jumps out dressed like `+c.attire+`!!!`)}
-*/
