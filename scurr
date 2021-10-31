@@ -10,5 +10,4 @@ c =
     method: scares[[Math.floor(Math.random()*scares.length)]],
     attire: costumes[[Math.floor(Math.random()*costumes.length)]]
 }
-
-if (a.length > 1){c.method};
+(c.method);
