@@ -9,9 +9,9 @@ if (a.length > 1){c =
 }
 
 if (a.length > 2){
-    d = loveFightWrite
-    e = nightbot
+    player1 = loveFightWrite
+    player2 = nightbot
 }
 
-(d.weapon+c[1]+b[0]);
+(player1.weapon+c[1]+b[0]);
 
