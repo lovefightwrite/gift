@@ -12,5 +12,5 @@ if (a.length > 2){
     d = loveFightWrite
 }
 
-(d.weapon+c[1]+b[0])
+(d.weapon+c[1]+b[0]);
 
