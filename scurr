@@ -1,4 +1,4 @@
 ["a vampire", "a ghost", "the big bad wolf", "a lumberjack with a chainsaw", "a machete-wielding maniac", "a cat"];
 
 
-(b[Math.floor(Math.random()*b.length)]+a);
+(b[Math.floor(Math.random()*b.length)]+" "+a);
