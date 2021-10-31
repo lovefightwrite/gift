@@ -10,6 +10,7 @@ if (a.length > 1){c =
 
 if (a.length > 2){
     d = loveFightWrite
+    e = nightbot
 }
 
 (d.weapon+c[1]+b[0]);
